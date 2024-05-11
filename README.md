@@ -448,9 +448,14 @@ contact.html
 ```
 
 ## OUTPUT:
-![Screenshot 2024-05-10 235300](https://github.com/23012925/Pharma/assets/150931013/68037709-215e-4590-b4a8-d6974d57af5d)
 
+![Screenshot 2024-05-10 235300](https://github.com/23012925/Pharma/assets/150931013/714e13f3-731c-4877-b4d9-f9c8d62c75ea)
 
+![Screenshot 2024-05-10 235316](https://github.com/23012925/Pharma/assets/150931013/f5716381-9cf0-4d9b-8c74-871fc13914e8)
+
+![Screenshot 2024-05-10 235327](https://github.com/23012925/Pharma/assets/150931013/87204bc9-8609-4e2a-91c2-32784ef1e3a7)
+
+![Screenshot 2024-05-10 235336](https://github.com/23012925/Pharma/assets/150931013/b8154ddf-9987-460b-93f9-74491990f46c)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
